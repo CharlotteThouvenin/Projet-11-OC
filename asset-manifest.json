@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CharlotteThouvenin/Projet-11-OC/static/css/main.a6eaf547.css",
+    "main.js": "/CharlotteThouvenin/Projet-11-OC/static/js/main.8c7250b9.js",
+    "static/js/453.80efc53e.chunk.js": "/CharlotteThouvenin/Projet-11-OC/static/js/453.80efc53e.chunk.js",
+    "static/media/bank-tree.webp": "/CharlotteThouvenin/Projet-11-OC/static/media/bank-tree.a0847335cfc7fce9ccb0.webp",
+    "static/media/argentBankLogo.webp": "/CharlotteThouvenin/Projet-11-OC/static/media/argentBankLogo.8e9e61a063749d8ab316.webp",
+    "index.html": "/CharlotteThouvenin/Projet-11-OC/index.html",
+    "main.a6eaf547.css.map": "/CharlotteThouvenin/Projet-11-OC/static/css/main.a6eaf547.css.map",
+    "main.8c7250b9.js.map": "/CharlotteThouvenin/Projet-11-OC/static/js/main.8c7250b9.js.map",
+    "453.80efc53e.chunk.js.map": "/CharlotteThouvenin/Projet-11-OC/static/js/453.80efc53e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6eaf547.css",
+    "static/js/main.8c7250b9.js"
+  ]
+}
