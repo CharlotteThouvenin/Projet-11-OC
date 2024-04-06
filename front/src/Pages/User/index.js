@@ -28,6 +28,8 @@ function User() {
             </div>
         )
     }
+    
+    // redirige vers la page login si pas connecté
     else {
         return <Navigate to="/Login" />;
     }
